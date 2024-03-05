@@ -1,3 +1,3 @@
-Here are the streamlit created during the 
+Streamlit created during the Data Application Builders Workshop Course.
 
-Link to the app: [https://melanies-smoothies-lea.streamlit.app/](https://melanies-smoothies-lea.streamlit.app/)https://melanies-smoothies-lea.streamlit.app/
+Link to the app: [https://melanies-smoothies-lea.streamlit.app/](https://melanies-smoothies-lea.streamlit.app/)
